@@ -1,0 +1,27 @@
+<resources>
+    <!-- element sizes in percentage of screen size -->
+    <integer name="time_text_size">34</integer>
+    <integer name="temperature_text_size">20</integer>
+    <integer name="x_icon">8</integer>
+    <integer name="y_icon">52</integer>
+    <integer name="x_time">12</integer>
+    <integer name="y_time">38</integer>
+    <integer name="x_high">56</integer>
+    <integer name="y_high">66</integer>
+    <integer name="x_low">56</integer>
+    <integer name="y_low">84</integer>
+
+    <integer name="time_text_size_round">34</integer>
+    <integer name="temperature_text_size_round">18</integer>
+    <integer name="x_icon_round">32</integer>
+    <integer name="y_icon_round">10</integer>
+    <integer name="x_time_round">11</integer>
+    <integer name="y_time_round">60</integer>
+    <integer name="x_high_round">24</integer>
+    <integer name="y_high_round">88</integer>
+    <integer name="x_low_round">50</integer>
+    <integer name="y_low_round">88</integer>
+    <integer name="height_icon_round">65</integer>
+    <integer name="width_icon_round">93</integer>
+
+</resources>

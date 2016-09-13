@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--<color name="background">#536DFE</color> &lt;!&ndash; indigo &ndash;&gt;-->
+    <color name="background">#000</color> <!-- indigo -->
+    <color name="ambient_background">#000</color> <!-- indigo -->
+    <color name="sunshine">#B3E5FC</color> <!-- sunshine background -->
+    <color name="digital_text">#ffffff</color>
+    <color name="ambient_text">#888</color>
+    <color name="time_color">#0e0</color>
+    <color name="high_color">#f80</color>
+    <color name="low_color">#9DF</color>
+    <color name="shade">#4000</color>
+</resources>
